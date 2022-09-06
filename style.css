@@ -137,7 +137,7 @@ main {
 .card {
     width: 100%;
     min-height: 64vh;
-    max-width: 280px;
+    max-width: 300px;
     border: 1px solid #ddd;
     box-shadow: 0 0 15px #ddd;
     border-radius: 3px;
@@ -191,7 +191,7 @@ main {
 .card-container {
     width: 100%;
     min-height: 113vh;
-    max-width: 280px;
+    max-width: 300px;
     border: 1px solid #ddd;
     box-shadow: 0 0 15px #ddd;
     border-radius: 3px;
